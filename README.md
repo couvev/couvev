@@ -1,6 +1,6 @@
-## Olá! Sou Gabriel Paiva. 👋
+## Thiago Lucas Alves
 
-Confira minha API de Presença por Reconhecimento Facial nos repositórios fixados.
+Confira meu BOT de Presença por Reconhecimento Facial nos repositórios fixados.
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -13,5 +13,5 @@ Confira minha API de Presença por Reconhecimento Facial nos repositórios fixad
 
 ## Contato. 📞
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-navarro-paiva-901662299)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielanpaiva2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagolucasalves/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagolcsalves@gmail.com)
