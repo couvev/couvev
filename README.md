@@ -1,8 +1,8 @@
 ## 🚀 Thiago Lucas Alves
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=couvev&show_icons=true&theme=dark" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=couvev&theme=dark&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=320" />
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px;">
+  <img style="max-width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=couvev&show_icons=true&theme=dark" />
+  <img style="max-width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=couvev&theme=dark&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=320" />
 </div>
 
 ## 📞 Contato 
