@@ -1,4 +1,4 @@
-## Thiago Lucas Alves 🚀
+## 🚀 Thiago Lucas Alves
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
