@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="display: flex;">
-    <img style="width: 420px; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=couvev&show_icons=true&theme=dracula" />
+    <img style="width: 420px; height: 185px;" src="https://github-readme-stats.vercel.app/api?username=couvev&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat" style="display: flex;">
     <img style="width: 420px; height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=couvev&theme=dracula&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=320" />
